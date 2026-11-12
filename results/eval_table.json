@@ -1,0 +1,23 @@
+{
+  "SFT": {
+    "mean_rm_score": 1.4110494927565256,
+    "win_rate_vs_sft": null,
+    "mean_kl": 0.0,
+    "mean_length": 29.69333333333333,
+    "mean_rouge_l": 0.24580449276939764
+  },
+  "PPO": {
+    "mean_rm_score": 1.394259995619456,
+    "win_rate_vs_sft": 0.25666666666666665,
+    "mean_kl": 0.00263578732808431,
+    "mean_length": 30.836666666666666,
+    "mean_rouge_l": 0.24189733033856195
+  },
+  "DPO": {
+    "mean_rm_score": 1.4067010919253031,
+    "win_rate_vs_sft": 0.21666666666666667,
+    "mean_kl": 0.12030367652575175,
+    "mean_length": 30.26,
+    "mean_rouge_l": 0.24633864781247453
+  }
+}
